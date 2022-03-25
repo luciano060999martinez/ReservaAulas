@@ -1,0 +1,17 @@
+Info 2 resumen.
+IA: en ciencias de la computacion, una maquina inteligente ideal es un agente flexible que percibe su entorno y lleva a cabo acciones que maximicen sus posibilidades
+de exito en algun objetivo o tarea.
+Existe un enfrentamiento entre los enfoques centrados en los humanos y los centrados en torno a la racionalidad. El centrado en el comportamiento humano debe ser una ciencia empirica, que incluya hipotesis y confirmaciones mediante experimentos. El enfoque racional implica una combinacion de matematicas e ingenieria.
+El computador deberia de poseer las siguientes capacidades:
+*Procesamiento de lenguaje natural que le permita comunicarse satisfactoriamente en ingles.
+* Representacion del conocimiento para almacenar lo que se conoce o siente
+*Razonamiento automatico para utilizar la informacion almacenada para responder a preguntas y extraer nuevas conclusiones.
+*Aprendizaje automatico para adaptarse a nuevas circunstancias y para detectar y extrapolar patrones.
+Agente: es cualquier cosa capaz de percibir su medioambiente con la ayuda de sensores y actuar en ese medio utilizando actuadores.
+Percepcion: se utiliza en este contexto para indicar que el agente puede recibir entradas en cualquier instante.
+Secuencia de percepciones: refleja el historial completo de lo que el agente ha recibido.
+En terminos matematicos se puede decir que el comportamiento del agente viene dado por la "funcion del agente" que proyecta una percepcion dada en una accion.
+La funcion del agente es una descripcion matematica abstracta, el programa del agente es una implementacion completa, que se ejecuta sobre la arquitectura del agente.
+Agente racional: es aquel que hace lo correcto, en terminos conceptuales, cada elemento de la tabla que define la funcion del agente se tendria que rellenar correctamente.
+Un agente omnisciente conoce el resultado de su accion y actua de acuerdo con el, este no es posible.
+Llevar a cabo acciones con la intencion de modificar percepciones futuras, en ocasiones procesos denominado recopilacion de informacion, es una parte importante de la racionalidad.
